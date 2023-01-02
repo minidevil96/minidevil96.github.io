@@ -4,7 +4,7 @@
 startupChime: true
 
 // Whether to show the welcome text (including a handy tip!) on boot.
-welcome: true
+welcome: off
 
 // Whether to allow a "cmd=" query parameter (web builds only).
 queryCmd: true
@@ -31,7 +31,7 @@ logoSticker: true
 
 // Whether to have a bezel at all.  Note that if you set this to false, then
 // you will get no disk slots or logo sticker regardless of the settings above.
-hasBezel: true
+hasBezel: false
 
 // What image to use for the bezel.  This can be the name of one of the
 // built-in bezels ("3DBezel.png" or "FlatBezel.png"), or the name of a

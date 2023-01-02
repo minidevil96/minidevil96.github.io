@@ -1,7 +1,7 @@
 // Machine options (read when Mini Micro boots, before disks are loaded).
 
 // Whether to play the startup chime when the machine boots.
-startupChime: true
+startupChime: false
 
 // Whether to show the welcome text (including a handy tip!) on boot.
 welcome: off
